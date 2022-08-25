@@ -15,5 +15,9 @@
        /#####h**``       `**%@####@       CSharp: 5/10
       @H@*`                    `*%#@    
      *`                            `*     Infos: 16yo Freelance and self-taught developer, founder of Haxordev.ga !
-     
-     https://lanyard.cnrad.dev/api/1006041670833410090?theme=dark&idleMessage=Developing%20For%20The%20Future%20%F0%9F%A7%A0
+ 
+```
+
+<p align="center">
+	<img src="https://lanyard.cnrad.dev/api/1006041670833410090?theme=dark&idleMessage=Developing%20For%20The%20Future%20%F0%9F%A7%A0"/>
+</p>
